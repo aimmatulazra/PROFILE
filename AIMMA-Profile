@@ -1,0 +1,83 @@
+<!doctype html>
+    <head>
+        <!--Google fonts links-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+
+
+        <link rel="stylesheet" href="assets/css/fonticons.css">
+        <link rel="stylesheet" href="assets/css/slider-pro.css">
+        <!--<link rel="stylesheet" href="assets/css/stylesheet.css">-->
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+
+        <!--For Plugins external css-->
+        <link rel="stylesheet" href="assets/css/plugins.css" />
+
+        <!--Theme custom css -->
+        <link rel="stylesheet" href="assets/css/style.css">
+
+        <!--Theme Responsive css-->
+        <link rel="stylesheet" href="assets/css/responsive.css" />
+
+        <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+        <!-- Home Section -->
+        <section id="home" class="home">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 ">
+                        <div class="main_home_slider text-center">
+
+
+                            <div class="single_home_slider">
+                                <div class="home-overlay"></div>
+                                <div class="main_home wow fadeInUp" data-wow-duration="700ms"> 
+
+                                    <h2>Hello!</h2>
+                                    <div class="separator"></div>
+                                    <p class="subtitle">
+                                    this is my profile</p>
+                                    <div class="home_btn">
+                                    </div>
+                                </div>
+                            </div><!-- End of single_home_slider -->
+
+                         
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- End of Home Section -->
+
+
+
+
+        <!-- Service Section -->
+        <section id="service" class="service sections lightbg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="head_title text-center">
+                            <h1>Aimmatul Yumna Arivatul Azra</h1>
+                        </div><!-- End of head title -->
+
+                        <div class="main_service_area"> 
+                            <div class="single_service_area">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="signle_service_left">
+                                            <img src="assets/images/aimma.jpg" alt="" />
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-5 col-sm-push-1">
+                                        <div class="single_service">
+                                            <h3>about</h3>
+                                            <h2>ME</h2>
+                                            <div class="separator2"></div>
+                                            <p>My name is Aimmatul Yumna Arivatul Azra, you can call me Aimma or Azra. I am student in Information Engineering Gadjah Mada University. I am 18 years old. I am interested about IT and WEB. i hope with this training i can make a good Website and become WEB Developer </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div><!-- End of single service area -->
+                            
